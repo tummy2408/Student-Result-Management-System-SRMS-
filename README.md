@@ -48,5 +48,6 @@ How to Run the Project
 
 Author
 Ogunbadejo Oluwatumininu Favour
-Course: Software Engineering (SEN)
+Course code: SEN 201
+
 Institution: Caleb University
